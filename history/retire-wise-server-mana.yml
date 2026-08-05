@@ -1,7 +1,7 @@
 url: https://sgnzli35s4.execute-api.us-east-1.amazonaws.com/mana/health
 status: up
 code: 200
-responseTime: 63
-lastUpdated: 2026-08-04T23:50:22.547Z
+responseTime: 129
+lastUpdated: 2026-08-05T23:43:43.366Z
 startTime: 2026-03-26T23:03:08.694Z
 generator: Upptime <https://github.com/upptime/upptime>
